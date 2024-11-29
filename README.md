@@ -1,1 +1,1 @@
-A basic android app (Kotlin), for a happy birthday
+A basic android app for birthday wishes, which is made in kotlin .
